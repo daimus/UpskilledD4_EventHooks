@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/UpskilledD4_EventHooks/static/css/main.beca3c41.css",
+    "main.js": "/UpskilledD4_EventHooks/static/js/main.e67c6f82.js",
+    "static/js/787.b72c0e8b.chunk.js": "/UpskilledD4_EventHooks/static/js/787.b72c0e8b.chunk.js",
+    "index.html": "/UpskilledD4_EventHooks/index.html",
+    "main.beca3c41.css.map": "/UpskilledD4_EventHooks/static/css/main.beca3c41.css.map",
+    "main.e67c6f82.js.map": "/UpskilledD4_EventHooks/static/js/main.e67c6f82.js.map",
+    "787.b72c0e8b.chunk.js.map": "/UpskilledD4_EventHooks/static/js/787.b72c0e8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.beca3c41.css",
+    "static/js/main.e67c6f82.js"
+  ]
+}
